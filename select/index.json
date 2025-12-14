@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "正解",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-14T12:12:27.795121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "正解",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_正解_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "正解 - 18FES ver.",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_正解_-_18FES_ver._RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "正解 (混声三部合唱)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_正解_(混声三部合唱)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "正解 (18FES ver.) - Seikai (18Fes Version)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_正解_(18FES_ver.)_-_Seikai_(18Fes_Version)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "正解 - Seikai",
+      "artist": "Radwimps",
+      "has_synced": false,
+      "path": "select/05_正解_-_Seikai_Radwimps.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "正解 (混声三部合唱) - Seikai (Mixed 3-Part Chorus)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/06_正解_(混声三部合唱)_-_Seikai_(Mixed_3-Part_Chorus)_Radwimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "正解",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_正解_RADWIMPS.txt"
+    }
+  ]
+}
